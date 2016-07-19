@@ -1,0 +1,6 @@
+name: template1
+description: Description of NATL60 simulations
+gems: [jekyll-paginate]
+paginate: 10
+baseurl: '/template1'
+url: 'http://auraoupa.github.io'

@@ -1,3 +1,3 @@
-# template1
+## New template for a website
 
-# http://auraoupa.github.io/template1
+http://auraoupa.github.io/template1
